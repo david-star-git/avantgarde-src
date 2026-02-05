@@ -1,0 +1,2 @@
+(function(){const header=document.getElementById("header");if(!header)return;let lastScroll=0;window.addEventListener("scroll",function(){const currentScroll=window.pageYOffset;if(currentScroll>50){header.classList.add("scrolled");}else{header.classList.remove("scrolled");}
+lastScroll=currentScroll;});})();

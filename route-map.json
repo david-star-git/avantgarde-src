@@ -1,0 +1,212 @@
+{
+  "en": {
+    "gallery": {
+      "url": "/en/gallery.html",
+      "path": "gallery.html"
+    },
+    "index": {
+      "url": "/en/index.html",
+      "path": "index.html"
+    },
+    "about": {
+      "url": "/en/about.html",
+      "path": "about.html"
+    },
+    "blog/2025-08-13_proyect-in-paraguay": {
+      "url": "/en/blog/2025-08-13_proyect-in-paraguay.html",
+      "path": "blog/2025-08-13_proyect-in-paraguay.html"
+    },
+    "blog/2026-01-10_new-year": {
+      "url": "/en/blog/2026-01-10_new-year.html",
+      "path": "blog/2026-01-10_new-year.html"
+    },
+    "blog/2025-10-19_our-name": {
+      "url": "/en/blog/2025-10-19_our-name.html",
+      "path": "blog/2025-10-19_our-name.html"
+    },
+    "blog/index": {
+      "url": "/en/blog/index.html",
+      "path": "blog/index.html"
+    },
+    "blog/2025-07-09_airconditioning": {
+      "url": "/en/blog/2025-07-09_airconditioning.html",
+      "path": "blog/2025-07-09_airconditioning.html"
+    },
+    "blog/2025-12-09_tiles": {
+      "url": "/en/blog/2025-12-09_tiles.html",
+      "path": "blog/2025-12-09_tiles.html"
+    },
+    "blog/2025-12-16_christmas": {
+      "url": "/en/blog/2025-12-16_christmas.html",
+      "path": "blog/2025-12-16_christmas.html"
+    },
+    "blog/2025-09-16_pay": {
+      "url": "/en/blog/2025-09-16_pay.html",
+      "path": "blog/2025-09-16_pay.html"
+    },
+    "blog/2025-08-21_la-perla": {
+      "url": "/en/blog/2025-08-21_la-perla.html",
+      "path": "blog/2025-08-21_la-perla.html"
+    },
+    "blog/page-2": {
+      "url": "/en/blog/page-2.html",
+      "path": "blog/page-2.html"
+    },
+    "blog/2026-01-26_new-website": {
+      "url": "/en/blog/2026-01-26_new-website.html",
+      "path": "blog/2026-01-26_new-website.html"
+    },
+    "blog/2025-09-08_house-price": {
+      "url": "/en/blog/2025-09-08_house-price.html",
+      "path": "blog/2025-09-08_house-price.html"
+    },
+    "blog/2025-05-21_roof": {
+      "url": "/en/blog/2025-05-21_roof.html",
+      "path": "blog/2025-05-21_roof.html"
+    },
+    "blog/2025-11-24_la-perla": {
+      "url": "/en/blog/2025-11-24_la-perla.html",
+      "path": "blog/2025-11-24_la-perla.html"
+    }
+  },
+  "de": {
+    "gallery": {
+      "url": "/de/gallery.html",
+      "path": "gallery.html"
+    },
+    "index": {
+      "url": "/de/index.html",
+      "path": "index.html"
+    },
+    "about": {
+      "url": "/de/about.html",
+      "path": "about.html"
+    },
+    "blog/2025-08-23_la-perla": {
+      "url": "/de/blog/2025-08-23_la-perla.html",
+      "path": "blog/2025-08-23_la-perla.html"
+    },
+    "blog/2025-08-13_proyect-in-paraguay": {
+      "url": "/de/blog/2025-08-13_proyect-in-paraguay.html",
+      "path": "blog/2025-08-13_proyect-in-paraguay.html"
+    },
+    "blog/2026-01-10_new-year": {
+      "url": "/de/blog/2026-01-10_new-year.html",
+      "path": "blog/2026-01-10_new-year.html"
+    },
+    "blog/2025-10-19_our-name": {
+      "url": "/de/blog/2025-10-19_our-name.html",
+      "path": "blog/2025-10-19_our-name.html"
+    },
+    "blog/index": {
+      "url": "/de/blog/index.html",
+      "path": "blog/index.html"
+    },
+    "blog/2025-07-09_airconditioning": {
+      "url": "/de/blog/2025-07-09_airconditioning.html",
+      "path": "blog/2025-07-09_airconditioning.html"
+    },
+    "blog/2025-12-09_tiles": {
+      "url": "/de/blog/2025-12-09_tiles.html",
+      "path": "blog/2025-12-09_tiles.html"
+    },
+    "blog/2025-12-16_christmas": {
+      "url": "/de/blog/2025-12-16_christmas.html",
+      "path": "blog/2025-12-16_christmas.html"
+    },
+    "blog/2025-09-16_pay": {
+      "url": "/de/blog/2025-09-16_pay.html",
+      "path": "blog/2025-09-16_pay.html"
+    },
+    "blog/page-2": {
+      "url": "/de/blog/page-2.html",
+      "path": "blog/page-2.html"
+    },
+    "blog/2026-01-26_new-website": {
+      "url": "/de/blog/2026-01-26_new-website.html",
+      "path": "blog/2026-01-26_new-website.html"
+    },
+    "blog/2025-09-08_house-price": {
+      "url": "/de/blog/2025-09-08_house-price.html",
+      "path": "blog/2025-09-08_house-price.html"
+    },
+    "blog/2025-05-21_roof": {
+      "url": "/de/blog/2025-05-21_roof.html",
+      "path": "blog/2025-05-21_roof.html"
+    },
+    "blog/2025-11-24_la-perla": {
+      "url": "/de/blog/2025-11-24_la-perla.html",
+      "path": "blog/2025-11-24_la-perla.html"
+    }
+  },
+  "es": {
+    "gallery": {
+      "url": "/es/gallery.html",
+      "path": "gallery.html"
+    },
+    "index": {
+      "url": "/es/index.html",
+      "path": "index.html"
+    },
+    "about": {
+      "url": "/es/about.html",
+      "path": "about.html"
+    },
+    "blog/2025-08-13_proyect-in-paraguay": {
+      "url": "/es/blog/2025-08-13_proyect-in-paraguay.html",
+      "path": "blog/2025-08-13_proyect-in-paraguay.html"
+    },
+    "blog/2026-01-10_new-year": {
+      "url": "/es/blog/2026-01-10_new-year.html",
+      "path": "blog/2026-01-10_new-year.html"
+    },
+    "blog/2025-10-19_our-name": {
+      "url": "/es/blog/2025-10-19_our-name.html",
+      "path": "blog/2025-10-19_our-name.html"
+    },
+    "blog/index": {
+      "url": "/es/blog/index.html",
+      "path": "blog/index.html"
+    },
+    "blog/2025-07-09_airconditioning": {
+      "url": "/es/blog/2025-07-09_airconditioning.html",
+      "path": "blog/2025-07-09_airconditioning.html"
+    },
+    "blog/2025-12-09_tiles": {
+      "url": "/es/blog/2025-12-09_tiles.html",
+      "path": "blog/2025-12-09_tiles.html"
+    },
+    "blog/2025-12-16_christmas": {
+      "url": "/es/blog/2025-12-16_christmas.html",
+      "path": "blog/2025-12-16_christmas.html"
+    },
+    "blog/2025-09-16_pay": {
+      "url": "/es/blog/2025-09-16_pay.html",
+      "path": "blog/2025-09-16_pay.html"
+    },
+    "blog/2025-08-21_la-perla": {
+      "url": "/es/blog/2025-08-21_la-perla.html",
+      "path": "blog/2025-08-21_la-perla.html"
+    },
+    "blog/page-2": {
+      "url": "/es/blog/page-2.html",
+      "path": "blog/page-2.html"
+    },
+    "blog/2026-01-26_new-website": {
+      "url": "/es/blog/2026-01-26_new-website.html",
+      "path": "blog/2026-01-26_new-website.html"
+    },
+    "blog/2025-09-08_house-price": {
+      "url": "/es/blog/2025-09-08_house-price.html",
+      "path": "blog/2025-09-08_house-price.html"
+    },
+    "blog/2025-05-21_roof": {
+      "url": "/es/blog/2025-05-21_roof.html",
+      "path": "blog/2025-05-21_roof.html"
+    },
+    "blog/2025-11-24_la-perla": {
+      "url": "/es/blog/2025-11-24_la-perla.html",
+      "path": "blog/2025-11-24_la-perla.html"
+    }
+  }
+}

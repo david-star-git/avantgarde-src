@@ -1,0 +1,2 @@
+(function(){const preloadCache=new Set();function preloadPage(url){if(preloadCache.has(url))return;const link=document.createElement("link");link.rel="prefetch";link.href=url;document.head.appendChild(link);preloadCache.add(url);}
+document.addEventListener("DOMContentLoaded",function(){const langLinks=document.querySelectorAll("[data-lang-switch]");langLinks.forEach((link)=>{link.addEventListener("mouseenter",()=>{preloadPage(link.href);});});});})();
