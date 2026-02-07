@@ -1,16 +1,16 @@
 {
   "en": {
-    "gallery": {
-      "url": "/en/gallery.html",
-      "path": "gallery.html"
-    },
     "index": {
-      "url": "/en/index.html",
+      "url": "/en/",
       "path": "index.html"
     },
     "about": {
-      "url": "/en/about.html",
-      "path": "about.html"
+      "url": "/en/about/",
+      "path": "about/index.html"
+    },
+    "gallery": {
+      "url": "/en/gallery/",
+      "path": "gallery/index.html"
     },
     "blog/2025-08-13_proyect-in-paraguay": {
       "url": "/en/blog/2025-08-13_proyect-in-paraguay.html",
@@ -23,10 +23,6 @@
     "blog/2025-10-19_our-name": {
       "url": "/en/blog/2025-10-19_our-name.html",
       "path": "blog/2025-10-19_our-name.html"
-    },
-    "blog/index": {
-      "url": "/en/blog/index.html",
-      "path": "blog/index.html"
     },
     "blog/2025-07-09_airconditioning": {
       "url": "/en/blog/2025-07-09_airconditioning.html",
@@ -48,10 +44,6 @@
       "url": "/en/blog/2025-08-21_la-perla.html",
       "path": "blog/2025-08-21_la-perla.html"
     },
-    "blog/page-2": {
-      "url": "/en/blog/page-2.html",
-      "path": "blog/page-2.html"
-    },
     "blog/2026-01-26_new-website": {
       "url": "/en/blog/2026-01-26_new-website.html",
       "path": "blog/2026-01-26_new-website.html"
@@ -71,20 +63,28 @@
     "blog/2025-11-24_la-perla": {
       "url": "/en/blog/2025-11-24_la-perla.html",
       "path": "blog/2025-11-24_la-perla.html"
+    },
+    "blog/page-2": {
+      "url": "/en/blog/page-2",
+      "path": "blog/page-2/index.html"
+    },
+    "blog/page-1": {
+      "url": "/en/blog/page-1",
+      "path": "blog/page-1/index.html"
     }
   },
   "de": {
-    "gallery": {
-      "url": "/de/gallery.html",
-      "path": "gallery.html"
-    },
     "index": {
-      "url": "/de/index.html",
+      "url": "/de/",
       "path": "index.html"
     },
     "about": {
-      "url": "/de/about.html",
-      "path": "about.html"
+      "url": "/de/about/",
+      "path": "about/index.html"
+    },
+    "gallery": {
+      "url": "/de/gallery/",
+      "path": "gallery/index.html"
     },
     "blog/2025-08-23_la-perla": {
       "url": "/de/blog/2025-08-23_la-perla.html",
@@ -102,10 +102,6 @@
       "url": "/de/blog/2025-10-19_our-name.html",
       "path": "blog/2025-10-19_our-name.html"
     },
-    "blog/index": {
-      "url": "/de/blog/index.html",
-      "path": "blog/index.html"
-    },
     "blog/2025-07-09_airconditioning": {
       "url": "/de/blog/2025-07-09_airconditioning.html",
       "path": "blog/2025-07-09_airconditioning.html"
@@ -121,10 +117,6 @@
     "blog/2025-09-16_pay": {
       "url": "/de/blog/2025-09-16_pay.html",
       "path": "blog/2025-09-16_pay.html"
-    },
-    "blog/page-2": {
-      "url": "/de/blog/page-2.html",
-      "path": "blog/page-2.html"
     },
     "blog/2026-01-26_new-website": {
       "url": "/de/blog/2026-01-26_new-website.html",
@@ -145,20 +137,28 @@
     "blog/2025-11-24_la-perla": {
       "url": "/de/blog/2025-11-24_la-perla.html",
       "path": "blog/2025-11-24_la-perla.html"
+    },
+    "blog/page-2": {
+      "url": "/de/blog/page-2",
+      "path": "blog/page-2/index.html"
+    },
+    "blog/page-1": {
+      "url": "/de/blog/page-1",
+      "path": "blog/page-1/index.html"
     }
   },
   "es": {
-    "gallery": {
-      "url": "/es/gallery.html",
-      "path": "gallery.html"
-    },
     "index": {
-      "url": "/es/index.html",
+      "url": "/es/",
       "path": "index.html"
     },
     "about": {
-      "url": "/es/about.html",
-      "path": "about.html"
+      "url": "/es/about/",
+      "path": "about/index.html"
+    },
+    "gallery": {
+      "url": "/es/gallery/",
+      "path": "gallery/index.html"
     },
     "blog/2025-08-13_proyect-in-paraguay": {
       "url": "/es/blog/2025-08-13_proyect-in-paraguay.html",
@@ -171,10 +171,6 @@
     "blog/2025-10-19_our-name": {
       "url": "/es/blog/2025-10-19_our-name.html",
       "path": "blog/2025-10-19_our-name.html"
-    },
-    "blog/index": {
-      "url": "/es/blog/index.html",
-      "path": "blog/index.html"
     },
     "blog/2025-07-09_airconditioning": {
       "url": "/es/blog/2025-07-09_airconditioning.html",
@@ -196,10 +192,6 @@
       "url": "/es/blog/2025-08-21_la-perla.html",
       "path": "blog/2025-08-21_la-perla.html"
     },
-    "blog/page-2": {
-      "url": "/es/blog/page-2.html",
-      "path": "blog/page-2.html"
-    },
     "blog/2026-01-26_new-website": {
       "url": "/es/blog/2026-01-26_new-website.html",
       "path": "blog/2026-01-26_new-website.html"
@@ -219,6 +211,14 @@
     "blog/2025-11-24_la-perla": {
       "url": "/es/blog/2025-11-24_la-perla.html",
       "path": "blog/2025-11-24_la-perla.html"
+    },
+    "blog/page-2": {
+      "url": "/es/blog/page-2",
+      "path": "blog/page-2/index.html"
+    },
+    "blog/page-1": {
+      "url": "/es/blog/page-1",
+      "path": "blog/page-1/index.html"
     }
   }
 }
